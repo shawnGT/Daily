@@ -3,5 +3,5 @@
 //    a * b
 // }
 function multiply(a, b){
-    return a * b
+    return a * b //a return needed to be added so the function would run correctly
 }
